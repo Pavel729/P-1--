@@ -41,6 +41,17 @@
 	float:right;
 }
 
+.login-btn a{
+	text-decoration:none;
+	color:#ffffff;
+	
+}
+
+.login-btn a:hover{
+	text-decoration:none;
+	color:#ffffff;
+}
+
 .login-btn:active{
 	box-shadow:0 0 9px 9px #FEDD24;
 }
