@@ -352,15 +352,18 @@ h1{
 	padding-right:35px;
 }
 
-.foote .row .fas{
+.fas{
 	padding-right:20px;
 	font-size:15px;
 }
-.foote .row .fab{
+.fab{
 	padding-right:20px;
 	font-size:15px;
 }
 
+.inline{
+	display:flex;
+}
 
 .footer hr{
 	margin-top:10px;
@@ -368,12 +371,11 @@ h1{
 }
 
 .fa-heart{
-	margin:0 5px;
+	margin-left:15px;
 	color:#FC4A44;
 }
 
-.foote .copyright{
-	padding-left:50%;
+.copyright{
 	text-align:center;
 }
 
